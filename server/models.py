@@ -1,3 +1,5 @@
+"""original code 
+
 # from flask_sqlalchemy import SQLAlchemy
 # from sqlalchemy import MetaData
 # from sqlalchemy.orm import validates
@@ -42,7 +44,7 @@
 #     def __repr__(self):
 #         return f'<Power {self.id}>'
 
-
+"""
 
 
 

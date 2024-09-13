@@ -1,4 +1,5 @@
 # #!/usr/bin/env python3
+"""original code
 
 # from flask import Flask, request, make_response
 # from flask_migrate import Migrate
@@ -27,6 +28,7 @@
 # if __name__ == '__main__':
 #     app.run(port=5555, debug=True)
 
+"""
 
 
 from flask import Flask, request, jsonify, make_response
